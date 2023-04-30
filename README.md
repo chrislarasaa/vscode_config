@@ -8,6 +8,9 @@ Extensiones para configurar visualmente Visual Studio Code y hacerlo más cómod
  - One Dark Pro
  - Indenticator
  - Material Icon theme
+ - Console Ninja
+ - ESLint
+ - Error Lens
 
 ## Code
 
