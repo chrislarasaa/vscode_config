@@ -4,8 +4,8 @@ Extensiones para configurar visualmente Visual Studio Code y hacerlo más cómod
 
 ## Theme
 
- - Palenight Theme
- - One Dark Pro
+ - Palenight Theme - Dark Modern
+ - One Dark Pro - One Dark Pro Mix
  - Indenticator
  - Material Icon theme
  - Console Ninja
